@@ -1,0 +1,91 @@
+.cus-nav-link {
+    text-decoration: none;
+    font-family: Archivo !important;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 13px;
+    line-height: 24px;
+    /* letter-spacing: 0%; */
+    text-transform: uppercase;
+    color: #6e6e6e;
+
+}
+
+.cus-nav-link.active {
+    color: #946603;
+}
+
+.cus-logo {
+    font-family: Vogun;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 21.53px;
+    /* leading-trim: NONE; */
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+.toggle-contact
+{
+    padding:0;
+}
+.cus-hr {
+  width: 100%;
+  /* align-self: stretch;  */
+}
+.bg-footer{
+    background-color: #946603;
+}
+/* .header
+ {
+  padding-left: 40px; 
+} */
+.footer{
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-right: 30px;
+}
+
+@media(max-width:425px)
+{
+    .header
+ {
+  padding-left: 20px; 
+}
+.footer{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 15px;
+}
+}
+.footer a{
+    text-decoration: none !important;
+    color:white !important;
+    
+}
+/* li::before {
+  content: "▶";
+  font-size: 0.6rem;
+  margin-right: 8px;
+  color: #f2e6d4;
+} */
+
+.cus-footer p,
+.cus-footer a {
+  opacity: 0.7;
+}
+.cus-footer small {
+  font-size: 0.70rem; /* smaller than small's default ~0.875em */
+    opacity: 0.9;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #fff;
+  width: 100%;
+}
+.layout-test {
+  overflow: visible !important;
+}

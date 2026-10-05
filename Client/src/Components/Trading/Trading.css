@@ -1,0 +1,19 @@
+.trading-bg
+{
+    background-image: url('../../assets//trading-bg.svg');
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+}
+.truck-circle-icon {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: 1.5px solid #525252;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  color: #525252;
+}

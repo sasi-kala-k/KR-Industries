@@ -1,0 +1,11 @@
+.bg-contactUs {
+    background-image: url('../../assets/bg-ContactUs.svg');
+    background-position: center;
+    background-size: fill;
+    height: 80vh;
+}
+
+.Field-bg
+{
+    background-color: #F9F9F9;
+}

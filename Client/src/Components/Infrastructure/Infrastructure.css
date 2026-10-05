@@ -1,0 +1,6 @@
+.bg-infra{
+background-image: url('../../assets/bg-infra.svg');
+background-position: center;
+background-size: cover;
+height:100vh;
+}

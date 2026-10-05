@@ -1,0 +1,9 @@
+img[alt="image3"] {
+  object-fit: cover !important;
+}
+.gray-bg {
+    background-color: #f9f9f9;
+}
+.text-brown{
+    color: var(--brown);
+}
